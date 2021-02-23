@@ -50,5 +50,7 @@ nav:
     - user/business-terminology.md
   - Developer's Guide:
     - developer/how-to-contribute.md
+    - developer/css-guidelines.md
+    - developer/useful-css-classes.md
   - FAQ:
     - faq/faq-import-requirements.md

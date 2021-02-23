@@ -5,7 +5,7 @@ You'll find detailed documentation about Squash TM, whether you're an end-user, 
 ## Sections
 
 * [Installation Guide](installation/index.md)
-* [Administrator Guide]
-* [User Guide]
-* [Developer Guide]
-* [FAQ]
+* [Administrator Guide](administration/index.md)
+* [User Guide](user/index.md)
+* [Developer Guide](developer/index.md)
+* [FAQ](faq/faq-import-requirements.md)

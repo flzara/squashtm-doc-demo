@@ -1,0 +1,53 @@
+# Project information
+site_name: Squash TM Documentation
+# site_url: 
+site_author: Squash Team
+site_description: >- 
+    All you need to know to use Squash TM, or to contribute to the project.
+copyright: Copyright &copy; 2011 - 2021 Henix
+
+# Repository
+repo_name: flzara/squashtm-doc
+repo_url: https://github.com/flzara/squashtm-doc
+
+# Theme
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+
+# Extensions
+markdown_extensions:
+  - admonition            # https://squidfunk.github.io/mkdocs-material/reference/admonitions/
+  - meta                  # https://www.mkdocs.org/user-guide/writing-your-docs/#meta-data
+  - tables                # https://www.mkdocs.org/user-guide/writing-your-docs/#tables
+  - pymdownx.keys         # https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#keys
+  - pymdownx.smartsymbols # https://facelessuser.github.io/pymdown-extensions/extensions/smartsymbols/
+  - pymdownx.superfences  # https://facelessuser.github.io/pymdown-extensions/extensions/superfences/#superfences
+  - pymdownx.tabbed       # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#tabbed
+  - pymdownx.tasklist:    # https://facelessuser.github.io/pymdown-extensions/extensions/tasklist/
+
+
+# Page tree
+nav:
+  - Home: index.md
+  # - Installation Guide:
+  #   - installation/requirements-prerequisites.md
+  #   - Installing Squash TM:
+  #     - installation/squash-tm-installation/Squash-tm-1.13-install.md
+  #     - installation/squash-tm-installation/windows-installation.md
+  #   - installation/running-stopping-squash-tm.md
+  # - Administrator Guide:
+  #   - administration/administration-page.md
+  # - User's Guide:
+  #   - user/business-terminology.md
+  # - Developer's Guide:
+  #   - developer/how-to-contribute.md
+  # - FAQ:
+  #   - faq/faq-import-requirements.md

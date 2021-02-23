@@ -43,6 +43,7 @@ nav:
       - installation/squash-tm-installation/Squash-tm-1.13-install.md
       - installation/squash-tm-installation/windows-installation.md
     - installation/running-stopping-squash-tm.md
+    - installation/attachments-repo.md
   - Administrator Guide:
     - administration/administration-page.md
   - User's Guide:

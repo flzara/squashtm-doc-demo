@@ -12,9 +12,7 @@ repo_url: https://github.com/flzara/squashtm-doc
 
 # Theme
 theme:
-  name: material
-  icon:
-    repo: fontawesome/brands/github
+  name: readthedocs
 
 # Plugins
 plugins:

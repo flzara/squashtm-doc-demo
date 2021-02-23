@@ -47,7 +47,7 @@ nav:
     - administration/administration-page.md
   - User's Guide:
     - user/business-terminology.md
-  # - Developer's Guide:
-  #   - developer/how-to-contribute.md
-  # - FAQ:
-  #   - faq/faq-import-requirements.md
+  - Developer's Guide:
+    - developer/how-to-contribute.md
+  - FAQ:
+    - faq/faq-import-requirements.md

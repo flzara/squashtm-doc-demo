@@ -19,7 +19,6 @@ markdown_extensions:
   - admonition            # https://squidfunk.github.io/mkdocs-material/reference/admonitions/
   - meta                  # https://www.mkdocs.org/user-guide/writing-your-docs/#meta-data
   - tables                # https://www.mkdocs.org/user-guide/writing-your-docs/#tables
-  - pymdownx.smartsymbols # https://facelessuser.github.io/pymdown-extensions/extensions/smartsymbols/
   - pymdownx.superfences  # https://facelessuser.github.io/pymdown-extensions/extensions/superfences/#superfences
   - pymdownx.tabbed       # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#tabbed
   - pymdownx.tasklist:    # https://facelessuser.github.io/pymdown-extensions/extensions/tasklist/
